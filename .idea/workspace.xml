@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4ae0e2d-8cb1-4d48-88d3-c3d0e41ae5ff" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/zadania/PermMissingElem/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadania/PermMissingElem/task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania/L3_Time_Complexity/FrogJmp/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania/L3_Time_Complexity/FrogJmp/task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania/L3_Time_Complexity/TapeEquilibrium/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania/L3_Time_Complexity/TapeEquilibrium/task.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codility/zadania/BinaryGap/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadania/BinaryGap/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadania/L1_Iterations/BinaryGap/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadania/BinaryGap/task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadania/L1_Iterations/BinaryGap/task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadania/CyclicRotation/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadania/L2_Arrays/CyclicRotation/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadania/CyclicRotation/task" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadania/L2_Arrays/CyclicRotation/task" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadania/OddOccurrencesInArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadania/L2_Arrays/OddOccurrencesInArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadania/OddOccurrencesInArray/task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadania/L2_Arrays/OddOccurrencesInArray/task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadania/PermMissingElem/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadania/L3_Time_Complexity/PermMissingElem/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadania/PermMissingElem/task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadania/L3_Time_Complexity/PermMissingElem/task.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,23 +27,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/zadania/OddOccurrencesInArray/Solution.java">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/zadania/L3_Time_Complexity/TapeEquilibrium/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-345">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="268">
+              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/zadania/PermMissingElem/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -60,6 +62,10 @@
         <option value="$PROJECT_DIR$/src/zadania/OddOccurrencesInArray/Solution.java" />
         <option value="$PROJECT_DIR$/src/zadania/PermMissingElem/task.txt" />
         <option value="$PROJECT_DIR$/src/zadania/PermMissingElem/Solution.java" />
+        <option value="$PROJECT_DIR$/src/zadania/L3_Time_Complexity/FrogJmp/task.txt" />
+        <option value="$PROJECT_DIR$/src/zadania/L3_Time_Complexity/FrogJmp/Solution.java" />
+        <option value="$PROJECT_DIR$/src/zadania/L3_Time_Complexity/TapeEquilibrium/task.txt" />
+        <option value="$PROJECT_DIR$/src/zadania/L3_Time_Complexity/TapeEquilibrium/Solution.java" />
       </list>
     </option>
   </component>
@@ -107,35 +113,22 @@
               <item name="codility" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="zadania" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryGap" type="462c0819:PsiDirectoryNode" />
+              <item name="L3_Time_Complexity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codility" type="b2602c69:ProjectViewProjectNode" />
               <item name="codility" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="zadania" type="462c0819:PsiDirectoryNode" />
-              <item name="CyclicRotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codility" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codility" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zadania" type="462c0819:PsiDirectoryNode" />
-              <item name="OddOccurrencesInArray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codility" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codility" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zadania" type="462c0819:PsiDirectoryNode" />
-              <item name="PermMissingElem" type="462c0819:PsiDirectoryNode" />
+              <item name="L3_Time_Complexity" type="462c0819:PsiDirectoryNode" />
+              <item name="TapeEquilibrium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -157,44 +150,66 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadania.CyclicRotation.Solution" />
+      <option name="MAIN_CLASS_NAME" value="zadania.L3_Time_Complexity.FrogJmp.Solution" />
       <module name="codility" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zadania.CyclicRotation.*" />
+          <option name="PATTERN" value="zadania.L3_Time_Complexity.FrogJmp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadania.OddOccurrencesInArray.Solution" />
+      <option name="MAIN_CLASS_NAME" value="zadania.L3_Time_Complexity.TapeEquilibrium.Solution" />
       <module name="codility" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zadania.OddOccurrencesInArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadania.PermMissingElem.Solution" />
-      <module name="codility" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zadania.PermMissingElem.*" />
+          <option name="PATTERN" value="zadania.L3_Time_Complexity.TapeEquilibrium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="zadania.BinaryGap.Solution" />
+      <option name="MAIN_CLASS_NAME" value="zadania.L1_Iterations.BinaryGap.Solution" />
       <module name="codility" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania.L2_Arrays.CyclicRotation.Solution" />
+      <module name="codility" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadania.L2_Arrays.CyclicRotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania.L2_Arrays.OddOccurrencesInArray.Solution" />
+      <module name="codility" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadania.L2_Arrays.OddOccurrencesInArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania.L3_Time_Complexity.PermMissingElem.Solution" />
+      <module name="codility" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadania.L3_Time_Complexity.PermMissingElem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -245,6 +260,8 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
@@ -263,7 +280,8 @@
       <updated>1538435374668</updated>
       <workItem from="1538435379891" duration="185000" />
       <workItem from="1538435613441" duration="7913000" />
-      <workItem from="1538600588995" duration="3217000" />
+      <workItem from="1538600588995" duration="3877000" />
+      <workItem from="1538641473610" duration="6313000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 1 and 2">
       <created>1538472391156</created>
@@ -272,15 +290,21 @@
       <option name="project" value="LOCAL" />
       <updated>1538472391156</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lesson 3 task 1">
+      <created>1538603870552</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538603870552</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11315000" />
+    <option name="totallyTimeSpent" value="18288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -291,12 +315,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32786885" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32843137" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2704918" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32786885" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26177174" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -320,15 +344,33 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson 1 and 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 1 and 2" />
+    <MESSAGE value="Lesson 3 task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 3 task 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/zadania/OddOccurrencesInArray/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/zadania/L2_Arrays/OddOccurrencesInArray/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zadania/L3_Time_Complexity/PermMissingElem/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zadania/L2_Arrays/OddOccurrencesInArray/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="23" selection-start-line="4" selection-end-line="5" />
@@ -338,42 +380,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadania/OddOccurrencesInArray/task.txt">
+    <entry file="file://$PROJECT_DIR$/src/zadania/L2_Arrays/OddOccurrencesInArray/task.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="69" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadania/BinaryGap/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/zadania/L1_Iterations/BinaryGap/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadania/BinaryGap/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/zadania/L1_Iterations/BinaryGap/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadania/CyclicRotation/task">
+    <entry file="file://$PROJECT_DIR$/src/zadania/L2_Arrays/CyclicRotation/task">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadania/BinaryGap/task.txt">
+    <entry file="file://$PROJECT_DIR$/src/zadania/L1_Iterations/BinaryGap/task.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadania/CyclicRotation/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/zadania/L2_Arrays/CyclicRotation/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
@@ -383,23 +425,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadania/OddOccurrencesInArray/task.txt">
+    <entry file="file://$PROJECT_DIR$/src/zadania/L2_Arrays/OddOccurrencesInArray/task.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="69" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadania/PermMissingElem/task.txt">
+    <entry file="file://$PROJECT_DIR$/src/zadania/L3_Time_Complexity/PermMissingElem/task.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="76" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadania/OddOccurrencesInArray/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/zadania/L2_Arrays/OddOccurrencesInArray/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-345">
+        <state relative-caret-position="60">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -407,10 +449,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadania/PermMissingElem/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/zadania/L3_Time_Complexity/PermMissingElem/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        <state relative-caret-position="193">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zadania/L3_Time_Complexity/FrogJmp/task.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zadania/L3_Time_Complexity/FrogJmp/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zadania/L3_Time_Complexity/TapeEquilibrium/task.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zadania/L3_Time_Complexity/TapeEquilibrium/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

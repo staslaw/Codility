@@ -1,4 +1,4 @@
-package zadania.PermMissingElem;
+package zadania.L3_Time_Complexity.PermMissingElem;
 
 import java.util.*;
 

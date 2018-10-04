@@ -1,4 +1,4 @@
-package zadania.CyclicRotation;
+package zadania.L2_Arrays.CyclicRotation;
 
 import java.util.Arrays;
 import java.util.Random;

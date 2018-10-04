@@ -1,4 +1,4 @@
-package zadania.BinaryGap;
+package zadania.L1_Iterations.BinaryGap;
 
 import java.util.ArrayList;
 import java.util.List;
