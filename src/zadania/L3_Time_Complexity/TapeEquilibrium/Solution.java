@@ -15,7 +15,7 @@ public class Solution {
             sums.add(sum);
         }
         int min = Integer.MAX_VALUE;
-        for (int i = 0; i < (sums.size() - 1); i++){
+        for (int i = 0; i < (sums.size() - 1); i++) {
             int sumA = sums.get(i);
             int sumB = sum - sums.get(i);
             int subtract = Math.abs(sumA - sumB);
@@ -35,5 +35,9 @@ public class Solution {
         }
         System.out.println(Arrays.toString(tab));
         System.out.println(solution(tab));
+
+        String s = "o";
+        String a = s = "abn";
+        System.out.println(a.codePointAt(1));
     }
 }
