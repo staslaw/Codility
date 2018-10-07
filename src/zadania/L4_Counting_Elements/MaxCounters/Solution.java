@@ -10,21 +10,23 @@ public class Solution {
 
         int maxValue = 0;
         int localMaxValue = 0;
-        int lengthA =  A.length;
+        int lengthA = A.length;
         for (int i = 0; i < lengthA; i++) {
             int el = A[i];
             if (el <= N) {
                 int index = el - 1;
-                int value = ++ resultTab[index];
+                int value = ++resultTab[index];
                 if (value > localMaxValue) {
                     localMaxValue = value;
                 }
             } else {
-                maxValue += localMaxValue;
-                localMaxValue = 0;
-                resultTab = new int[N];
+                if (localMaxValue != 0) {
+                    maxValue += localMaxValue;
+                    localMaxValue = 0;
+                    resultTab = new int[N];
                 }
             }
+        }
         for (int i = 0; i < N; i++) {
             resultTab[i] += maxValue;
         }
