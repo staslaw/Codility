@@ -5,20 +5,6 @@ import java.util.*;
 public class Solution {
 
     public static int solution(int[] A) {
-//        Set<Integer> set = new HashSet<>();
-//        for (int i = 0; i < A.length; i++) {
-//            if (A[i] > 0) {
-//                set.add(A[i]);
-//            }
-//        }
-//
-//        for (int i = 1; i <= A.length + 1; i++) {
-//            if (!set.contains(i)) {
-//                return i;
-//            }
-//        }
-//        return 0;
-
         Map<Integer, Integer> map = new HashMap<>();
         for (int i = 1; i <= A.length + 1; i++) {
             map.put(i, null);
