@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4ae0e2d-8cb1-4d48-88d3-c3d0e41ae5ff" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/zadania/L5_Prefix_Sums/PassingCars/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadania/L5_Prefix_Sums/PassingCars/task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania/L5_Prefix_Sums/GenomicRangeQuery/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania/L5_Prefix_Sums/GenomicRangeQuery/task.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zadania/L4_Counting_Elements/MissingInteger/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadania/L4_Counting_Elements/MissingInteger/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/zadania/L5_Prefix_Sums/PassingCars/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/zadania/L5_Prefix_Sums/GenomicRangeQuery/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            <state relative-caret-position="-105">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -68,6 +67,8 @@
         <option value="$PROJECT_DIR$/src/zadania/L4_Counting_Elements/MissingInteger/Solution.java" />
         <option value="$PROJECT_DIR$/src/zadania/L5_Prefix_Sums/PassingCars/task.txt" />
         <option value="$PROJECT_DIR$/src/zadania/L5_Prefix_Sums/PassingCars/Solution.java" />
+        <option value="$PROJECT_DIR$/src/zadania/L5_Prefix_Sums/GenomicRangeQuery/task.txt" />
+        <option value="$PROJECT_DIR$/src/zadania/L5_Prefix_Sums/GenomicRangeQuery/Solution.java" />
       </list>
     </option>
   </component>
@@ -92,6 +93,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,15 +125,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="zadania" type="462c0819:PsiDirectoryNode" />
               <item name="L5_Prefix_Sums" type="462c0819:PsiDirectoryNode" />
-              <item name="PassingCars" type="462c0819:PsiDirectoryNode" />
+              <item name="GenomicRangeQuery" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,7 +141,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1 - Java_podstawy/WAR_JEE_S_09_Podstawy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3 - Servlety/WAR_JEE_S_09_Servlety" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -164,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inne.Person" />
       <module name="codility" />
@@ -198,13 +199,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadania.L4_Counting_Elements.FrogRiverOne.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania.L5_Prefix_Sums.GenomicRangeQuery.Solution" />
       <module name="codility" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zadania.L4_Counting_Elements.FrogRiverOne.*" />
+          <option name="PATTERN" value="zadania.L5_Prefix_Sums.GenomicRangeQuery.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,19 +302,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Person" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -338,6 +339,7 @@
       <workItem from="1539375586700" duration="3420000" />
       <workItem from="1539545960163" duration="421000" />
       <workItem from="1540997606109" duration="3884000" />
+      <workItem from="1541192114858" duration="7266000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 1 and 2">
       <created>1538472391156</created>
@@ -392,11 +394,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53729000" />
+    <option name="totallyTimeSpent" value="60995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -407,19 +408,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2704918" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3262295" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3262295" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23770492" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32786885" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2952913" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30007982" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.56557375" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4852459" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -445,10 +446,17 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <option name="time" value="14" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/zadania/L5_Prefix_Sums/PassingCars/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/zadania/L4_Counting_Elements/MissingInteger/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -661,6 +669,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zadania/L5_Prefix_Sums/GenomicRangeQuery/task.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zadania/L5_Prefix_Sums/GenomicRangeQuery/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
